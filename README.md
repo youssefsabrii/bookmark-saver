@@ -17,8 +17,7 @@ A simple and responsive **Bookmark Saver** web application to save, edit, and de
 
 ## Demo
 
-![Bookmark Saver Demo](demo.png)  
-*Add a screenshot or GIF of your project here*
+*This project is lightweight and easy to use. Open it in your browser to try it.*
 
 ---
 
@@ -28,4 +27,3 @@ A simple and responsive **Bookmark Saver** web application to save, edit, and de
 
 ```bash
 git clone https://github.com/youssefsabrii/bookmark-saver.git
- 
